@@ -94,7 +94,7 @@ Ingeniero de Software y fundador de **AppKode-Software**, empresa de desarrollo 
 ### Herramientas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 <p>
@@ -121,7 +121,7 @@ Ingeniero de Software y fundador de **AppKode-Software**, empresa de desarrollo 
 
 ### <img src="https://api.iconify.design/lucide/hand-coins.svg?color=%232f81f7" width="24" height="24" align="absmiddle" /> Sistema de recaudación municipal
 
-**Qué es:** sitio web y app móvil que funcionan como un sistema de recaudación de todo el municipio, centralizado en la tesorería municipal, con acceso por rol (tesorería, caja y dependencias).
+**Qué es:** sitio web y app móvil que funcionan como un sistema de recaudación de todo el municipio, centralizado en la tesorería municipal, con accesos independientes. 
 
 **Qué resuelve:** centraliza en la tesorería la recaudación de todo el municipio, con un control claro de lo que se cobra y se recibe en lugar de llevarlo por separado en cada área.
 
