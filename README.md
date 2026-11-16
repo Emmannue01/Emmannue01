@@ -36,8 +36,6 @@ Ingeniero de Software y fundador de [**AppKode-Software**](https://appkode.appko
 
 <img src="https://api.iconify.design/lucide/database.svg?color=%232f81f7" width="20" height="20" align="absmiddle" /> Backend y bases de datos con Supabase, Firebase y PostgreSQL/PostGIS.
 
-<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%232f81f7" width="20" height="20" align="absmiddle" /> Estudiante de maestría en **Innovación y Desarrollo Tecnológico**, enfocado en IoT y sistemas basados en sensores.
-
 <img src="https://api.iconify.design/lucide/bot.svg?color=%232f81f7" width="20" height="20" align="absmiddle" /> Interés en automatización, IoT e Inteligencia Artificial.
 
 <img src="https://api.iconify.design/lucide/map-pin.svg?color=%232f81f7" width="20" height="20" align="absmiddle" /> México.
