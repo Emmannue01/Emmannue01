@@ -14,13 +14,17 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joabemmanue01@gmail.com">
     <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
+  <a href="https://appkode.appkode.workers.dev/">
+    <img src="https://img.shields.io/badge/AppKode-Sitio%20web-6D28D9?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%232f81f7" width="26" height="26" align="absmiddle" /> Sobre mí
 
-Ingeniero de Software y fundador de **AppKode-Software**, empresa de desarrollo de software.
+Ingeniero de Software y fundador de [**AppKode-Software**](https://appkode.appkode.workers.dev/), empresa de desarrollo de software.
 
 <img src="https://api.iconify.design/lucide/landmark.svg?color=%232f81f7" width="20" height="20" align="absmiddle" /> Desarrollo soluciones digitales (web, móvil y generación de documentos) para **gobiernos municipales de México**, adaptadas a sus flujos de trabajo y necesidades reales.
 
@@ -121,7 +125,7 @@ Ingeniero de Software y fundador de **AppKode-Software**, empresa de desarrollo 
 
 ### <img src="https://api.iconify.design/lucide/hand-coins.svg?color=%232f81f7" width="24" height="24" align="absmiddle" /> Sistema de recaudación municipal
 
-**Qué es:** sitio web y app móvil que funcionan como un sistema de recaudación de todo el municipio, centralizado en la tesorería municipal, con accesos independientes. 
+**Qué es:** sitio web y app móvil que funcionan como un sistema de recaudación de todo el municipio, centralizado en la tesorería municipal, con accesos independientes.
 
 **Qué resuelve:** centraliza en la tesorería la recaudación de todo el municipio, con un control claro de lo que se cobra y se recibe en lugar de llevarlo por separado en cada área.
 
@@ -162,15 +166,15 @@ Ingeniero de Software y fundador de **AppKode-Software**, empresa de desarrollo 
 ## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%232f81f7" width="26" height="26" align="absmiddle" /> GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Emmannue01&show_icons=true&theme=tokyonight"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Emmannue01&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmannue01&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=Emmannue01&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmannue01&layout=compact&theme=tokyonight"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Emmannue01&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -183,7 +187,8 @@ Ingeniero de Software y fundador de **AppKode-Software**, empresa de desarrollo 
 
 <img src="https://api.iconify.design/lucide/github.svg?color=%232f81f7" width="20" height="20" align="absmiddle" /> GitHub: github.com/Emmannue01
 
-<img src="https://api.iconify.design/lucide/building-2.svg?color=%232f81f7" width="20" height="20" align="absmiddle" /> AppKode-Software
+<img src="https://api.iconify.design/lucide/building-2.svg?color=%232f81f7" width="20" height="20" align="absmiddle" /> [AppKode-Software](https://appkode.appkode.workers.dev/)
 
 <img src="https://api.iconify.design/lucide/star.svg?color=%232f81f7" width="20" height="20" align="absmiddle" /> Siempre buscando aprender nuevas tecnologías y desarrollar soluciones que generen impacto.
+
 
