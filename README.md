@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Joab</h1>
 
-<h3 align="center">Ingeniero de Software | Desarrollador Full Stack | Soluciones Digitales para Gobierno Municipal</h3>
+<h3 align="center">Ingeniero de Software | Desarrollador Full Stack | Responsable de Sistemas Digitales</h3>
 
 <p align="center">
   <a href="https://github.com/Emmannue01">
